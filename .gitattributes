@@ -1,0 +1,8 @@
+* text eol=lf
+
+*.md text
+
+*.ani binary
+*.cur binary
+*.gif binary
+*.png binary
