@@ -6,3 +6,4 @@
 *.cur binary
 *.gif binary
 *.png binary
+XCursors/* binary
